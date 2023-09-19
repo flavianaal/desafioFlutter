@@ -1,6 +1,11 @@
 {
+<<<<<<< HEAD
     "name": "widgets_flutter",
     "short_name": "widgets_flutter",
+=======
+    "name": "imc_flutter",
+    "short_name": "imc_flutter",
+>>>>>>> 334f23c (Novo desafio flutter)
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",

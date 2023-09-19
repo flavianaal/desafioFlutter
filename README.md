@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 # widgets_flutter
+=======
+# imc_flutter
+>>>>>>> 334f23c (Novo desafio flutter)
 
 A new Flutter project.
 

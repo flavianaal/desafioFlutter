@@ -1,5 +1,10 @@
 import 'package:flutter/material.dart';
 
+<<<<<<< HEAD
+=======
+import 'pages/home_page.dart';
+
+>>>>>>> 334f23c (Novo desafio flutter)
 void main() {
   runApp(const MyApp());
 }
@@ -10,16 +15,24 @@ class MyApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
+<<<<<<< HEAD
       debugShowCheckedModeBanner: false,
       title: 'Desafio DevChangers 01',
       theme: ThemeData(
         colorSchemeSeed: Colors.deepPurple,
+=======
+      title: 'Desafio DevChangers 02',
+      theme: ThemeData(
+        colorScheme: ColorScheme.fromSeed(
+            seedColor: const Color.fromRGBO(102, 187, 106, 1)),
+>>>>>>> 334f23c (Novo desafio flutter)
         useMaterial3: true,
       ),
       home: const HomePage(),
     );
   }
 }
+<<<<<<< HEAD
 
 class HomePage extends StatelessWidget {
   const HomePage({super.key});
@@ -260,3 +273,5 @@ class HomePage extends StatelessWidget {
     );
   }
 }
+=======
+>>>>>>> 334f23c (Novo desafio flutter)

@@ -90,12 +90,21 @@ BEGIN
         BLOCK "040904e4"
         BEGIN
             VALUE "CompanyName", "com.example" "\0"
+<<<<<<< HEAD
             VALUE "FileDescription", "widgets_flutter" "\0"
             VALUE "FileVersion", VERSION_AS_STRING "\0"
             VALUE "InternalName", "widgets_flutter" "\0"
             VALUE "LegalCopyright", "Copyright (C) 2023 com.example. All rights reserved." "\0"
             VALUE "OriginalFilename", "widgets_flutter.exe" "\0"
             VALUE "ProductName", "widgets_flutter" "\0"
+=======
+            VALUE "FileDescription", "imc_flutter" "\0"
+            VALUE "FileVersion", VERSION_AS_STRING "\0"
+            VALUE "InternalName", "imc_flutter" "\0"
+            VALUE "LegalCopyright", "Copyright (C) 2023 com.example. All rights reserved." "\0"
+            VALUE "OriginalFilename", "imc_flutter.exe" "\0"
+            VALUE "ProductName", "imc_flutter" "\0"
+>>>>>>> 334f23c (Novo desafio flutter)
             VALUE "ProductVersion", VERSION_AS_STRING "\0"
         END
     END
